@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/multi-tenant-rbac-backend-system-40616-40583/rbac_mysql_database"
+}
