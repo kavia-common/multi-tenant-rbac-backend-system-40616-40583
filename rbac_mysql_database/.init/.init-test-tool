@@ -1,0 +1,2 @@
+{ "working_directory": "/home/kavia/workspace/code-generation",
+ "command": "mysql -h localhost -u appuser -pdbuser123 -e "SELECT VERSION()"" }
